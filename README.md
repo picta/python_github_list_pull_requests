@@ -1,4 +1,4 @@
 # python_github
 
 
-Script to list pull requests based on a repo.
+Script to list pull requests on certain repo.
